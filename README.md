@@ -1,2 +1,20 @@
-# Personal-Portfolio-Website
-This project is a responsive personal portfolio website developed using HTML and CSS. The webpage showcases developer information, skills, and projects in a clean single-page layout with smooth navigation and responsive design.
+# Personal Portfolio Website
+
+## Description
+A responsive personal portfolio website built using HTML and CSS.
+
+## Features
+- Responsive Design
+- Navigation Bar
+- Hero Section
+- About Section
+- Projects Showcase
+- Skills Section
+- Contact Section
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Praneeth Kadiyala
